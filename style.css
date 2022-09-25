@@ -1,11 +1,5 @@
         <style>
 
-        h1 {
-              font-family: Gyahegi;
-              font-size: 15px;
-              color: #F0F8FF
-            }
-
 	h2 {		
 		font-family: Gyahegi;
 		font-size: 40px;
@@ -42,7 +36,7 @@
               position: relative;
               text-align: center;
               width: 100%;
-              height: 20px;
+              height: 70px;
               background-color: #DB0202;
             }
 
